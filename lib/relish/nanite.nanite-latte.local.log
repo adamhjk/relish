@@ -1,0 +1,197 @@
+# Logfile created on Thu Feb 19 17:18:09 -0800 2009 by /
+I, [2009-02-19T17:18:09.707855 #48215]  INFO -- : Registering #<Relish::Actor:0x10a1260> with prefix "relish"
+D, [2009-02-19T17:18:09.707999 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T17:20:10.376461 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x107fc78>
+D, [2009-02-19T17:20:10.376658 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T17:20:11.833842 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x107c190>
+D, [2009-02-19T17:21:04.424090 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x1062434>
+D, [2009-02-19T17:21:04.424301 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T17:21:05.791206 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x105ea8c>
+D, [2009-02-19T17:21:34.526887 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x1034a48>
+D, [2009-02-19T17:21:34.527102 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T17:21:42.572514 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x102b664>
+D, [2009-02-19T18:07:33.106455 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x1009eb0>
+D, [2009-02-19T18:07:33.106661 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:07:39.348261 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x10065d0>
+D, [2009-02-19T18:08:08.700576 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x562778>
+D, [2009-02-19T18:08:08.700895 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:08:10.610260 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x55274c>
+D, [2009-02-19T18:08:53.808848 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x4937c>
+D, [2009-02-19T18:08:53.808989 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:09:09.823825 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x11eed48>
+D, [2009-02-19T18:09:23.925385 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x11a56e8>
+D, [2009-02-19T18:09:23.925610 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:09:27.007679 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x1198a74>
+D, [2009-02-19T18:21:42.466367 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x1092f44>
+D, [2009-02-19T18:21:42.466617 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:21:58.290020 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x108a04c>
+D, [2009-02-19T18:22:12.568931 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x10737fc>
+D, [2009-02-19T18:22:12.569161 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:22:15.468414 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x106fd14>
+D, [2009-02-19T18:22:42.734908 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x1054aa0>
+D, [2009-02-19T18:22:42.735134 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:22:43.741436 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x105011c>
+D, [2009-02-19T18:22:57.833305 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x101d104>
+D, [2009-02-19T18:22:57.833687 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T18:23:00.825506 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x10179e8>
+D, [2009-02-19T18:59:53.738760 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x10613cc>
+D, [2009-02-19T18:59:53.738979 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T19:00:01.154685 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x105da10>
+D, [2009-02-19T19:00:08.759421 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x1035c18>
+D, [2009-02-19T19:00:08.759656 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T19:00:18.262553 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x102d158>
+D, [2009-02-19T22:10:46.346895 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x11534c4>
+D, [2009-02-19T22:10:46.347124 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T22:10:58.274187 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x114b83c>
+D, [2009-02-19T22:11:01.369367 #48215] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x10f9bf4>
+D, [2009-02-19T22:11:01.369576 #48215] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-19T22:11:15.371528 #48215] DEBUG -- : handling Request: #<Nanite::Request:0x10f42bc>
+I, [2009-02-20T15:01:52.347806 #1178]  INFO -- : Registering #<Relish::Actor:0x10a1170> with prefix "relish"
+D, [2009-02-20T15:01:52.347954 #1178] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T15:16:08.916651 #1356]  INFO -- : Registering #<Relish::Actor:0x10a1170> with prefix "relish"
+D, [2009-02-20T15:16:08.916801 #1356] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T15:36:13.072227 #1570]  INFO -- : Registering #<Relish::Actor:0x10a1170> with prefix "relish"
+D, [2009-02-20T15:36:13.072414 #1570] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T15:37:56.312110 #1586]  INFO -- : Registering #<Relish::Actor:0x10a1170> with prefix "relish"
+D, [2009-02-20T15:37:56.312287 #1586] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T15:38:27.692032 #1632]  INFO -- : Registering #<Relish::Actor:0x10a1170> with prefix "relish"
+D, [2009-02-20T15:38:27.692208 #1632] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-20T15:43:14.103777 #1632] DEBUG -- : handling Advertise: #<Nanite::Advertise:0x106f9e0>
+D, [2009-02-20T15:43:14.103994 #1632] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-20T15:43:35.601934 #1632] DEBUG -- : handling Request: #<Nanite::Request:0x106a788>
+E, [2009-02-20T15:43:35.755135 #1632] ERROR -- : ArgumentError: Must have an application name
+ ./lib/relish/../relish/builder.rb:30:in `initialize'
+  ./lib/relish/../relish/actor.rb:9:in `new'
+  ./lib/relish/../relish/actor.rb:9:in `build'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `send'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `act_upon'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:16:in `dispatch'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:133:in `receive'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:140:in `setup_queue'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `call'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `receive'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq.rb:171:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:9:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:105:in `receive_data'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run_machine'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/nanite-agent:28
+  /usr/bin/nanite-agent:19:in `load'
+  /usr/bin/nanite-agent:19
+D, [2009-02-20T15:43:52.013287 #1632] DEBUG -- : handling Request: #<Nanite::Request:0x1050040>
+E, [2009-02-20T15:43:52.078473 #1632] ERROR -- : ArgumentError: Must have an application name
+ ./lib/relish/../relish/builder.rb:30:in `initialize'
+  ./lib/relish/../relish/actor.rb:9:in `new'
+  ./lib/relish/../relish/actor.rb:9:in `build'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `send'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `act_upon'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:16:in `dispatch'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:133:in `receive'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:140:in `setup_queue'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `call'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `receive'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq.rb:171:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:9:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:105:in `receive_data'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run_machine'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/nanite-agent:28
+  /usr/bin/nanite-agent:19:in `load'
+  /usr/bin/nanite-agent:19
+D, [2009-02-20T15:43:57.471783 #1632] DEBUG -- : handling Request: #<Nanite::Request:0x10234c8>
+E, [2009-02-20T15:43:57.590769 #1632] ERROR -- : ArgumentError: Must have an application name
+ ./lib/relish/../relish/builder.rb:30:in `initialize'
+  ./lib/relish/../relish/actor.rb:9:in `new'
+  ./lib/relish/../relish/actor.rb:9:in `build'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `send'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `act_upon'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:16:in `dispatch'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:133:in `receive'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:140:in `setup_queue'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `call'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `receive'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq.rb:171:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:9:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:105:in `receive_data'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run_machine'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/nanite-agent:28
+  /usr/bin/nanite-agent:19:in `load'
+  /usr/bin/nanite-agent:19
+D, [2009-02-20T15:44:13.036470 #1632] DEBUG -- : handling Request: #<Nanite::Request:0x1003970>
+E, [2009-02-20T15:44:13.108566 #1632] ERROR -- : ArgumentError: Must have an application name
+ ./lib/relish/../relish/builder.rb:30:in `initialize'
+  ./lib/relish/../relish/actor.rb:9:in `new'
+  ./lib/relish/../relish/actor.rb:9:in `build'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `send'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `act_upon'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:16:in `dispatch'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:133:in `receive'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:140:in `setup_queue'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `call'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `receive'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq.rb:171:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:9:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:105:in `receive_data'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run_machine'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/nanite-agent:28
+  /usr/bin/nanite-agent:19:in `load'
+  /usr/bin/nanite-agent:19
+D, [2009-02-20T15:45:00.545294 #1632] DEBUG -- : handling Request: #<Nanite::Request:0x545d80>
+E, [2009-02-20T15:45:00.639462 #1632] ERROR -- : ArgumentError: Must have an application name
+ ./lib/relish/../relish/builder.rb:30:in `initialize'
+  ./lib/relish/../relish/actor.rb:9:in `new'
+  ./lib/relish/../relish/actor.rb:9:in `build'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `send'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `act_upon'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:16:in `dispatch'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:133:in `receive'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:140:in `setup_queue'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `call'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `receive'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq.rb:171:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:9:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:105:in `receive_data'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run_machine'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/nanite-agent:28
+  /usr/bin/nanite-agent:19:in `load'
+  /usr/bin/nanite-agent:19
+D, [2009-02-20T15:45:03.717847 #1632] DEBUG -- : handling Request: #<Nanite::Request:0x11fadf0>
+E, [2009-02-20T15:45:03.773355 #1632] ERROR -- : ArgumentError: Must have an application name
+ ./lib/relish/../relish/builder.rb:30:in `initialize'
+  ./lib/relish/../relish/actor.rb:9:in `new'
+  ./lib/relish/../relish/actor.rb:9:in `build'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `send'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:41:in `act_upon'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/dispatcher.rb:16:in `dispatch'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:133:in `receive'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/../lib/nanite/agent.rb:140:in `setup_queue'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `call'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq/queue.rb:375:in `receive'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/mq.rb:171:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:9:in `process_frame'
+  /Library/Ruby/Gems/1.8/gems/amqp-0.6.0/lib/amqp/client.rb:105:in `receive_data'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run_machine'
+  /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.2/lib/eventmachine.rb:231:in `run'
+  /Library/Ruby/Gems/1.8/gems/nanite-0.3.0/bin/nanite-agent:28
+  /usr/bin/nanite-agent:19:in `load'
+  /usr/bin/nanite-agent:19
+I, [2009-02-20T15:55:02.091003 #2049]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T15:55:02.091179 #2049] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T16:12:53.029324 #2133]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T16:12:53.029516 #2133] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T16:16:17.082685 #2168]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T16:16:17.082874 #2168] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T16:22:59.803141 #2327]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T16:22:59.803906 #2327] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T16:23:43.441712 #2333]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T16:23:43.441872 #2333] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T16:24:04.106454 #2351]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T16:24:04.106625 #2351] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T16:26:52.415164 #2413]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T16:26:52.415313 #2413] DEBUG -- : advertise_services: ["/relish/build"]
+I, [2009-02-20T16:33:31.253190 #2509]  INFO -- : Registering #<Relish::Actor:0x10a10e4> with prefix "relish"
+D, [2009-02-20T16:33:31.253344 #2509] DEBUG -- : advertise_services: ["/relish/build"]
+D, [2009-02-20T16:33:43.575291 #2509] DEBUG -- : handling Request: #<Nanite::Request:0x108bc6c>
